@@ -2,6 +2,9 @@ package com.company;
 
 public class Variables {
 
+    public double calculate(double input) {
+        return (input + 3) / 10;
+    }
 
     public int reverse(int num) {
         if (num > 99 && num < 1000) {
