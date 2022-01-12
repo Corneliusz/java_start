@@ -1,4 +1,4 @@
-package com.company;
+package com.corneliusz;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.company.bank;
+package com.corneliusz.bank;
 
 public class CommandReader {
 

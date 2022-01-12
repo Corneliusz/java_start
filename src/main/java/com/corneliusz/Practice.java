@@ -1,4 +1,4 @@
-package com.company;
+package com.corneliusz;
 
 public class Practice {
     public String addToPizza(String top) {

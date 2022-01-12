@@ -1,4 +1,4 @@
-package com.company;
+package com.corneliusz;
 
 public class SimpleSwitch {
     public String switchTest(int month) {
