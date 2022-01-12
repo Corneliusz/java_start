@@ -1,7 +1,2 @@
-/.idea/.gitignore
-/.idea/codeStyles/codeStyleConfig.xml
-/.idea/compiler.xml
-/.idea/jarRepositories.xml
-/java_start_bank.iml
-/.idea/misc.xml
-/.idea/codeStyles/Project.xml
+/.idea/
+/out/
