@@ -1,4 +1,4 @@
-package com.corneliusz.bank;
+package com.corneliusz.bank.obsluga;
 
 public class ObslugaLogowania {
     private UserData userData;

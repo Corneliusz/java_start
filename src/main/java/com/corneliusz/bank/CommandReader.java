@@ -1,5 +1,7 @@
 package com.corneliusz.bank;
 
+import com.corneliusz.bank.obsluga.*;
+
 public class CommandReader {
 
     ObslugaSalda obslugaSalda;

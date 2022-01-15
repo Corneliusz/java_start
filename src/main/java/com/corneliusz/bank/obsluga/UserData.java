@@ -1,8 +1,8 @@
-package com.corneliusz.bank;
+package com.corneliusz.bank.obsluga;
 
 public class UserData {
-    public Account[] accounts;
-    public Account currentAccount;
+    Account[] accounts;
+    Account currentAccount;
 
     public UserData() {
         accounts = new Account[5];
